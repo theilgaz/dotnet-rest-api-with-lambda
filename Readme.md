@@ -1,4 +1,6 @@
+<div align='center'>
 <img src="./images/dotnet-on-aws.png" alt=".NET on AWS" title=".NET on AWS" width="150" height="100" style="display: block;margin-left: auto;margin-right: auto;" />
+</div>
 
 # Serverless REST API in .NET 6 with AWS Lambda
 
